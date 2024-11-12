@@ -1,0 +1,4 @@
+model\DescuentoCamisas.class
+com\mycompany\semana112\JakartaRestConfiguration.class
+com\mycompany\semana112\resources\JakartaEE11Resource.class
+controller\DescuentoCamisasServlet.class
